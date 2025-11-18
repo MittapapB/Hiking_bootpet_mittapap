@@ -102,3 +102,7 @@
 body {
   background-color: #f7ebdf; /* Lightest shade for body background to follow the 60% rule */
 }
+
+.material-icons {
+  cursor: pointer;
+}
